@@ -7,7 +7,7 @@
 <img alt="node-current" src="https://badgen.net/github/closed-issues/himakhaitan/nodejs_expressjs_template?style=flat-square&scale=1.4">
 </p>
 <h1 align="center">
-  <a><img src="https://github.com/himakhaitan/nodejs_expressjs_template/blob/main/resources/banner.png?raw=true" width="150"></a>
+  <a><img src="https://github.com/himakhaitan/nodejs_expressjs_template/blob/main/resources/150x150.png?raw=true" width="150"></a>
   <br>  
   Node Js + Express Js Backend Template
   <br>
