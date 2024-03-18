@@ -1,13 +1,13 @@
 <div id="top"></div>
 <p align="center">
-<img src="https://badgen.net/github/issues/himakhaitan/Folio-API?style=flat-square&scale=1.4">
+<img src="https://badgen.net/github/issues/himakhaitan/nodejs_expressjs_template?style=flat-square&scale=1.4">
 &nbsp;
-<img alt="node-current" src="https://badgen.net/github/stars/himakhaitan/Folio-API?style=flat-square&scale=1.4">&nbsp;
-<img alt="APM" src="https://badgen.net/github/forks/himakhaitan/Folio-API?style=flat-square&scale=1.4">&nbsp;
-<img alt="node-current" src="https://badgen.net/github/closed-issues/himakhaitan/Folio-API?style=flat-square&scale=1.4">
+<img alt="node-current" src="https://badgen.net/github/stars/himakhaitan/nodejs_expressjs_template?style=flat-square&scale=1.4">&nbsp;
+<img alt="APM" src="https://badgen.net/github/forks/himakhaitan/nodejs_expressjs_template?style=flat-square&scale=1.4">&nbsp;
+<img alt="node-current" src="https://badgen.net/github/closed-issues/himakhaitan/nodejs_expressjs_template?style=flat-square&scale=1.4">
 </p>
 <h1 align="center">
-  <a><img src="https://github.com/himakhaitan/Folio-API/blob/main/resources/150x150.png.png?raw=true" width="150"></a>
+  <a><img src="https://github.com/himakhaitan/nodejs_expressjs_template/blob/main/resources/banner.png?raw=true" width="150"></a>
   <br>  
   Node Js + Express Js Backend Template
   <br>
@@ -29,7 +29,7 @@ The template contains a scalable code structure for a NodeJs based backend enabl
 <img src="https://github.com/himakhaitan/himakhaitan/blob/main/icons/js.png?raw=true" height="60">
 </p>
 
-<img src="https://github.com/himakhaitan/Folio-API/blob/main/resources/banner.png?raw=true">
+<img src="https://github.com/himakhaitan/nodejs_expressjs_template/blob/main/resources/banner.png?raw=true">
 
 <details>
   <summary>Table of Contents</summary>
